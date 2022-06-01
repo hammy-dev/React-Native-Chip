@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702941892607",
+    "firebase_url": "https://angular-classified-app.firebaseio.com",
+    "project_id": "angular-classified-app",
+    "storage_bucket": "angular-classified-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702941892607:android:1b2588367fc430337661ca",
+        "android_client_info": {
+          "package_name": "com.sheheryarkhan.chipreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702941892607-j5ovo3e0jhhvoc9o9rngnqqc08qepjje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76HUR-5WXz3PJ9-LofAHudQ9KruB48K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702941892607-j5ovo3e0jhhvoc9o9rngnqqc08qepjje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InstructionId renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "flex": 0.2,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginTop": "40%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#13bf62",
+          "borderColor": "#13bf62",
+          "borderRadius": 30,
+          "borderWidth": 1,
+          "height": 60,
+          "justifyContent": "center",
+          "textAlign": "center",
+          "width": 60,
+        }
+      }
+    >
+      <Text
+        style={Object {}}
+      >
+        1
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#cdcdcd",
+          "height": 1,
+          "width": "20%",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderColor": "gray",
+          "borderRadius": 30,
+          "borderWidth": 1,
+          "height": 60,
+          "justifyContent": "center",
+          "textAlign": "center",
+          "width": 60,
+        }
+      }
+    >
+      <Text
+        style={Object {}}
+      >
+        2
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#cdcdcd",
+          "height": 1,
+          "width": "20%",
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderColor": "gray",
+          "borderRadius": 30,
+          "borderWidth": 1,
+          "height": 60,
+          "justifyContent": "center",
+          "textAlign": "center",
+          "width": 60,
+        }
+      }
+    >
+      <Text
+        style={Object {}}
+      >
+        3
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "flex-start",
+        "backgroundColor": "white",
+        "flex": 0.1,
+        "flexDirection": "row",
+        "justifyContent": "space-around",
+        "marginTop": "-3%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#00c357",
+          "fontSize": 15,
+        }
+      }
+    >
+      Instruction
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#aaaaaa",
+          "fontSize": 15,
+          "marginRight": "2%",
+        }
+      }
+    >
+      Upload document
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#aaaaaa",
+          "fontSize": 15,
+        }
+      }
+    >
+      Sign Up
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "flex": 0.9,
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "#e3f1f4",
+          "borderColor": "#e3f1f4",
+          "borderRadius": 15,
+          "borderWidth": 1,
+          "height": "70%",
+          "width": "80%",
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "backgroundColor": "white",
+              "borderColor": "white",
+              "borderRadius": 85,
+              "borderWidth": 1,
+              "height": 170,
+              "justifyContent": "center",
+              "marginTop": "-25%",
+              "textAlign": "center",
+              "width": 170,
+            }
+          }
+        >
+          <Text
+            style={Object {}}
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#e3f1f4",
+            "flex": 0.3,
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginTop": "9%",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 17,
+              "textAlign": "center",
+            }
+          }
+        >
+          Upload a picture of the director's ID/ 
+          
+
+           Driver License or Passport
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#e3f1f4",
+            "flex": 0.5,
+            "flexDirection": "row",
+            "justifyContent": "center",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#0d7281",
+              "borderRadius": 30,
+              "height": "50%",
+              "opacity": 1,
+              "width": "48%",
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontSize": 18,
+                },
+                Object {
+                  "color": "white",
+                  "fontSize": 20,
+                  "paddingTop": 10,
+                },
+              ]
+            }
+          >
+            Upload
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

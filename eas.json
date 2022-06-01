@@ -1,0 +1,14 @@
+{
+    "cli": {
+        "version": ">= 0.34.0"
+    },
+    "submit": {
+        "production": {
+            "ios": {
+                "appleId": "sheheryar.khan@txend.com",
+                "ascAppId": "1626830998",
+                "appleTeamId": "426U6W688P"
+            }
+        }
+    }
+}

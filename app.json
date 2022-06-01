@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Chip-ReactNative",
+    "scheme": "chipreactnative",
+    "slug": "Chip-ReactNative",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/chip.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sheheryarkhan.chipreactnative"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sheheryarkhan.chipreactnative",
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi":true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
